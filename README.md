@@ -19,7 +19,7 @@
 
 1. **データの準備**: グラフで使用するCSVファイルを用意してください。CSVファイルは、エクセルで作成した表データの保存時にCSV形式を選ぶだけでも可能です。
 行や列ついては、以下のファイルの形式に沿って入力してください。
-- [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/data.csv)
+- [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/deta.csv)
 
 - [サンプルグラフ⓶のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/deta2.csv)
 
