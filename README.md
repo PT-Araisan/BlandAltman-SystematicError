@@ -32,7 +32,7 @@
 - 次に、後で使うので、↓こちらのファイルを押してから
 - [Pythonコードのファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/bland_altman.ipynb)
 
-- この赤丸の場所を押してmain.ipynbというファイルをダウンロードしておいてください。
+- この赤丸の場所を押してbland_altman.ipynbというファイルをダウンロードしておいてください。
 ![画像３](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo4.png)
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
@@ -44,7 +44,7 @@ Googleアカウントが必要です。
 ![画像４](https://github.com/PT-Araisan/scd-mltbs-graph/blob/main/assets/demo2.png)
 もしくはファイルのタブから『ノートブックをアップロード』を押す。
 
-- さっきダウンロードしたmain.ipynbをアップロードしてください。
+- さっきダウンロードしたbland_altman.ipynbをアップロードしてください。
 
 すると、↓このような画面になります。そこで
 
