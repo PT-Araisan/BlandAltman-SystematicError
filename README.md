@@ -63,7 +63,7 @@ Googleアカウントが必要です。
 
 ## 補足事項
 
-- お時間ありましたら、こちらのBland-Altmanプロットに関する原著論文も読むことをお勧めします。[Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/2868172/)
+- お時間ありましたら、こちらのBland-Altmanプロットに関する論文も読むことをお勧めします。[Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/2868172/)
 
 ## お問い合わせ
 
