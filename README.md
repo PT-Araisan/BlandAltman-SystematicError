@@ -18,8 +18,7 @@
 ## 使い方手順
 
 1. **データの準備**: グラフで使用するCSVファイルを用意してください。CSVファイルは、エクセルで作成した表データの保存時にCSV形式を選ぶだけでも可能です。
-行や列ついては、以下のファイルの形式に沿って入力してください（日本語がここでは文字化けしてますがちゃんと使えます）。
-
+行や列ついては、以下のファイルの形式に沿って入力してください。
 - [サンプルグラフ⓵のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/data.csv)
 
 - [サンプルグラフ⓶のCSVファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/detaset/deta2.csv)
@@ -32,10 +31,10 @@
 
 
 - 次に、後で使うので、↓こちらのファイルを押してから
-- [Pythonコードのファイル](https://github.com/PT-Araisan/scd-abab-graph/blob/main/main.ipynb)
+- [Pythonコードのファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/bland_altman.ipynb)
 
 - この赤丸の場所を押してmain.ipynbというファイルをダウンロードしておいてください。
-![画像３](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo2.png)
+![画像３](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo3.png))
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
 
@@ -54,18 +53,18 @@ Googleアカウントが必要です。
 
 - ⓶を押して、グラフを作りたいCSVファイルをアップロードしてください。
 
-![画像４](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo4.png)
+![画像４](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo4.png)
 
 
 - 最後に、↓の画像の'hoge.csv'のところを、自分がアップロードしたファイルの名前に変更して、上の赤丸の△ボタンを押します。Ctrl + Enterでもいいです。
-![画像５](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo3.png)
+![画像５](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo5.png)
 
 3. **グラフが表示されたら、右クリックで画像を保存してください**
 
 
 ## 補足事項
 
-- 反転法の検定や効果量の計算は、[『Rではじめるシングルケースデザイン』（藤巻 峻・山田 剛史　著）](https://ratik.org/9955/907438227/)を参考にすることをお勧めします。そちらでは解析パッケージをダウンロードすることができ、RStudioを活用して簡単にランダマイゼーション検定やTau-Uなども算出できます。
+- お時間ありましたら、こちらのBland-Altmanプロットに関する原著論文も読むことをお勧めします。[Statistical methods for assessing agreement between two methods of clinical measurement](https://pubmed.ncbi.nlm.nih.gov/2868172/)
 
 ## お問い合わせ
 
