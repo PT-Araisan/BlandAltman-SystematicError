@@ -26,15 +26,14 @@
 
 サンプルグラフのCSVファイルは赤丸の場所からダウンロードできます。
 
-![画像１](https://github.com/PT-Araisan/scd-abab-graph/blob/main/assets/demo1.png)
-
+![画像１](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo3.png)
 
 
 - 次に、後で使うので、↓こちらのファイルを押してから
 - [Pythonコードのファイル](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/bland_altman.ipynb)
 
 - この赤丸の場所を押してmain.ipynbというファイルをダウンロードしておいてください。
-![画像３](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo3.png))
+![画像３](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo4.png)
 
 2. **Google colaboratoryの利用**: 次にこちらのツールを使います。今回の作業は無料で可能。
 
@@ -53,11 +52,11 @@ Googleアカウントが必要です。
 
 - ⓶を押して、グラフを作りたいCSVファイルをアップロードしてください。
 
-![画像４](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo4.png)
+![画像４](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo5.png)
 
 
 - 最後に、↓の画像の'hoge.csv'のところを、自分がアップロードしたファイルの名前に変更して、上の赤丸の△ボタンを押します。Ctrl + Enterでもいいです。
-![画像５](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo5.png)
+![画像５](https://github.com/PT-Araisan/BlandAltman-SystematicError/blob/main/assets/demo6.png)
 
 3. **グラフが表示されたら、右クリックで画像を保存してください**
 
